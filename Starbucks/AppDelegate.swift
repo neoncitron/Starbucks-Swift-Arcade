@@ -8,7 +8,7 @@
 
 import UIKit
 
-// video 6 - DONE
+// video 6 DONE
 
 class StarBucksViewController: UIViewController {
     
